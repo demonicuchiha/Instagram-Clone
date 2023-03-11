@@ -75,19 +75,29 @@ START:
 
 ![I1](https://user-images.githubusercontent.com/114142541/224507730-de49f323-53f8-44dc-afc6-d3073467334d.png)
 
-SIGN UP:
+MAIN:
 
 ![I2](https://user-images.githubusercontent.com/114142541/224507733-a71aa9ee-0c53-4a94-9fc4-949966f4470c.PNG)
 
-LOGIN:
+SIGNUP:
 
 ![I3](https://user-images.githubusercontent.com/114142541/224507736-c4406b76-12e4-4471-90c5-eb29d011c760.PNG)
 
-INTERFACE:
+LOGIN:
 
 ![I4](https://user-images.githubusercontent.com/114142541/224507745-c54fe4ed-c3a4-46af-9a58-d693ac7657fb.PNG)
 
+INTERFACE:
+
 ![I5](https://user-images.githubusercontent.com/114142541/224507747-24b32876-7219-4103-952e-fc49542ed03d.PNG)
+
+![I6](https://user-images.githubusercontent.com/114142541/224507752-b576d0b5-94b2-4166-9fda-89583919ab47.PNG)
+
+![I7](https://user-images.githubusercontent.com/114142541/224507755-93b5a1fc-83fc-4ab2-9155-d4f36f7bc4d0.PNG)
+
+![I8](https://user-images.githubusercontent.com/114142541/224507762-2e39ed9c-2f6e-455f-a17c-ecd0963d4cf2.PNG)
+
+
 
 
 
