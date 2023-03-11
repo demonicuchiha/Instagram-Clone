@@ -1,0 +1,94 @@
+
+
+.mycard2{
+margin-top: 6%;
+    background-color: white;
+    margin-left:30%;
+    margin-right:30%;
+    padding-left:3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #300924;
+    padding-top:0%;
+    
+    
+    
+    }
+    
+
+
+.input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid purple;
+    margin-left:20px;
+    width:90%;
+    background-color: white;
+    text-align: left;
+
+}
+
+
+.image{
+    margin-top:5px;
+}
+
+
+
+.hoho1{
+    margin-top:30px;
+    font-size:x-large;
+}
+
+.label{
+
+    margin-left:0%;
+    padding-left: 7%;
+    color: #29071c;
+    text-shadow: 2px 2px 4px #cb83ad;
+    font-weight:bold;
+    float:left;
+
+    
+}
+
+
+.but2{
+    margin-left: 75%;
+    padding:5px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    background-image: linear-gradient(to bottom right,#c33764, #1D2671);
+    border: 2px solid #29071c;
+    font-weight: bold;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#toast-container{
+    position: fixed !important;
+    top:30px !important;
+    right: 20px !important;
+    color: rgb(18, 17, 17) !important;
+    background-color: white !important;
+    border: 3px solid black !important;
+    padding: 10px 50px !important;
+    width: 100px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.but2:hover{
+    color: black;
+}
+
+.existing-account:hover{
+    color: #00F;
+}
+
+
+
+
+

@@ -1,0 +1,88 @@
+.mycard{
+    margin-top: 7%;
+background-color: white;
+margin-left:30%;
+margin-right:30%;
+padding-left:3%;
+padding-bottom: 3%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #300924;
+padding-top:0%;
+
+
+
+}
+
+.logo1{
+    margin-top: 0px;
+    margin-left: 30px;
+    width: 130px;
+    
+
+}
+
+
+.hoho{
+    margin-top: 1%;
+    font-size:x-large;
+}
+
+
+.input1{
+    border: none;
+    border-bottom: 2px solid purple;
+    margin-left:20px;
+    width:90%;
+    outline: none;
+
+    background-color: white;
+    text-align: left;
+}
+
+
+
+.auth-card{
+
+padding-left:20px;
+padding-right:20px;
+padding-bottom:10px;
+margin-left:2%;
+margin-right: 2% ;
+max-width: 400px;
+text-align:center;
+}
+
+.label1{
+    margin-left:0%;
+    padding-left: 7%;
+    color: #29071c;
+    text-shadow: 2px 2px 4px #cb83ad;
+    font-weight:bold;
+    float:left;
+}
+
+
+
+
+.but{
+    margin-left: 75%;
+    margin-top: 20px;
+    padding:5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-image: linear-gradient(to bottom right,#c33764, #1D2671);
+    border: 2px solid #29071c;
+    font-weight: bold;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.but:hover{
+    background-color:white;
+    color:black;
+  }
+
+  .non-existing-account:hover{
+    color: #00F;
+  }

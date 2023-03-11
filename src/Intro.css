@@ -1,0 +1,37 @@
+.logo{
+    margin-top: 0px;
+    margin-left: 30px;
+    width: 160px;
+    
+
+}
+
+
+.attacker{
+
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+        height: 15%;
+
+}
+
+h3{
+    text-align: center;
+    font-size: 200%;
+}
+
+.textarea{
+
+    border: 10px solid white;
+    margin-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    color: #f8cac0;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+

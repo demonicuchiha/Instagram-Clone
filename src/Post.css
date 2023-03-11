@@ -1,0 +1,78 @@
+.mypostcard{
+
+    margin-top: 1%;
+    background-color: rgb(243, 235, 174);
+    margin-left:30%;
+    margin-right:30%;
+    padding-left:3%;
+    padding-bottom: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #300924;
+    padding-top:0%;
+    border:5px solid black
+    
+    
+    
+    }
+
+    .post-attacker{
+        width:10%;
+        margin-top: 9%;
+        margin-left: 45%;
+    }
+
+    
+    
+    .post-input{
+        border: none;
+        border-bottom: 2px solid purple;
+        margin-left:20px;
+        width:90%;
+        outline:none;
+    
+        background-color: rgb(255, 255, 255);
+        text-align: left;
+    }
+    
+    
+    
+    .auth-post-card{
+    
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:2%;
+    margin-right: 2% ;
+    max-width: 400px;
+    text-align:center;
+    }
+    
+    .post-label{
+        margin-left:0%;
+        padding-left: 7%;
+        color: #29071c;
+        text-shadow: 2px 2px 4px #cb83ad;
+        font-weight:bold;
+        float:left;
+    }
+    
+    .post-hoho{
+        margin-top: 10%;
+        font-size:x-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #300924;
+    }
+
+    .post-but{
+
+        padding:5px;
+        background-image: linear-gradient(to bottom right,#c33764, #1D2671);
+        border: 3px solid #121011;
+        font-weight: bold;
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .post-but:hover{
+        color: black
+    }
+    

@@ -1,0 +1,12 @@
+.imageupload{
+    border:3px solid rgb(82, 9, 72);
+    margin-top: 10px;
+}
+
+.imageupload__button
+{
+
+    background-image: linear-gradient(to bottom right,#c33764, #1d2671); 
+    border:5px solid purple;
+    color: white;
+}

@@ -1,0 +1,105 @@
+
+
+.Navbar{
+    background-color: #050a30;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 10%;
+    width: 100%;
+}
+
+.nav-logo{
+    display:inline-block;
+    vertical-align: middle;
+    margin-top: 0px;
+    margin-left: 30px;
+    width: 130px;
+    
+
+}
+
+.nav{
+    display:inline-block;
+    vertical-align: middle; 
+    width:80%;
+    text-align: right;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.navbar-links{
+ 
+   
+    list-style: none;
+    
+    
+}
+li{
+    margin-left: 2%;
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+
+}
+
+.link {
+    color: #FFF;
+    text-decoration: none;
+
+  }
+  .link:hover {
+     color: #00F;
+     text-decoration: none;
+  }
+
+  .logout-but{
+
+    margin-left: 1%;
+    padding:5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(232, 33, 15);
+    border: 2px solid #29071c;
+    font-size:large;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logout-but:hover{
+    background-color:rgb(240, 232, 242);
+    color:rgb(0, 0, 0);
+  }
+
+  .search{
+    margin-right: 1%;
+    border:2px solid rgb(23, 15, 54);
+    padding: 1%;
+    margin-bottom: 1%;
+  }
+
+  .search:hover{
+    background-color: white;
+    color: black;
+  }
+
+  .mymodal{
+    background-color: white;
+    color: black;
+    width:30%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+  }
+
+  .agree{
+
+    margin-top: 5%;
+    
+ 
+  }
+
+

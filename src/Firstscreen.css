@@ -1,0 +1,26 @@
+.hacker_img{
+
+margin-top: 12%;
+
+}
+
+.img_width{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+
+}
+
+.initial_loading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+    margin-top: 3%;
+    color: white;
+    font-style: italic;
+    margin-left: 45%;
+    
+
+
+}
